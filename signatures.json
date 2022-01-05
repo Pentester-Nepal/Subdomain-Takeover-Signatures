@@ -131,6 +131,10 @@
 		{
 			"platform": "WordPress.com",
 			"content": "<title>Error: Domain mapping upgrade for this domain not found</title>"
+		},
+		{
+            "platform": "UptimeRobot.com",
+            "content": "page not found"
 		}
  ]
 }
