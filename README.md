@@ -2,10 +2,8 @@
 
 _**Signatures for different platforms to verify Sub-domain Takeover vulnerabilities!**_
  
-MAKE SURE YOU APPEND A NEW SOURCE (IF) TO CREDIT THE REAL OWNER (YOURSELF IF YOU'RE THE OWNER)!
-
 ## Contribution Policy
-* **Make sure to append a new source, crediting the real owner, author, discoverer or resource in your Pull Requests!**
+**Make sure to append a new source, crediting the real owner, author, discoverer or resource in your Pull Requests!**
 
 ## Contribution Guidelines
 You can contribute to [**signatures.json**](signatures.json) in two different ways. To add new signatures, please append them at the end of the JSON data!
