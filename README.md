@@ -39,9 +39,9 @@ You can contribute to [**signatures.json**](signatures.json) in two different wa
 		{
 			"platform": "Platform Name, for example, GitHub Pages",
 			"content": [
-                "Signature 1 for Subdomain Takeover in GitHub Pages",
-                "Signature 2 for Subdomain Takeover in GitHub Pages"
-            ]
+				"Signature 1 for Subdomain Takeover in GitHub Pages",
+				"Signature 2 for Subdomain Takeover in GitHub Pages"
+			]
 		}
 	]
 }
