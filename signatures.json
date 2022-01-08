@@ -1,6 +1,6 @@
 {
-  "platforms": [
-    {
+	"platforms": [
+		{
 			"platform": "GitHub Pages",
 			"content": "<p><strong>There isn't a GitHub Pages site here.</strong></p>"
 		},
@@ -133,8 +133,8 @@
 			"content": "<title>Error: Domain mapping upgrade for this domain not found</title>"
 		},
 		{
-            "platform": "UptimeRobot.com",
-            "content": "page not found"
+			"platform": "UptimeRobot.com",
+			"content": "page not found"
 		}
- ]
+	]
 }
