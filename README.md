@@ -49,3 +49,4 @@ You can contribute to [**signatures.json**](signatures.json) in two different wa
 
 ## Sources
 - https://github.com/EdOverflow/can-i-take-over-xyz
+- https://raw.githubusercontent.com/Ice3man543/SubOver/master/providers.json
