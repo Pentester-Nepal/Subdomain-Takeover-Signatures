@@ -2,7 +2,10 @@
 	"platforms": [
 		{
 			"platform": "GitHub Pages",
-			"content": "<p><strong>There isn't a GitHub Pages site here.</strong></p>"
+			"content": [
+				"<p><strong>There isn't a GitHub Pages site here.</strong></p>",
+				"For root URLs (like http://example.com/) you must provide an index.html file"
+			]
 		},
 		{
 			"platform": "WordPress.com",
@@ -10,7 +13,10 @@
 		},
 		{
 			"platform": "Amazon S3",
-			"content": "<Code>NoSuchBucket</Code>"
+			"content": [
+				"<Code>NoSuchBucket</Code>",
+				"The specified bucket does not exist"
+			]
 		},
 		{
 			"platform": "Agile CRM",
@@ -22,11 +28,17 @@
 		},
 		{
 			"platform": "Bitbucket",
-			"content": "Repository not found"
+			"content": [
+				"Repository not found",
+				"The page you have requested does not exist"
+			]
 		},
 		{
 			"platform": "Campaign Monitor",
-			"content": "Trying to access your account?"
+			"content": [
+				"Trying to access your account?",
+				"Double check the URL"
+			]
 		},
 		{
 			"platform": "DigitalOcean",
@@ -34,11 +46,17 @@
 		},
 		{
 			"platform": "Fastly",
-			"content": "Fastly error: unknown domain:"
+			"content": [
+				"Fastly error: unknown domain:",
+				"Please check that this domain has been added to a service"
+			]
 		},
 		{
 			"platform": "Ghost",
-			"content": "The thing you were looking for is no longer here, or never was"
+			"content": [
+				"The thing you were looking for is no longer here",
+				"The thing you were looking for is no longer here, or never was"
+			]
 		},
 		{
 			"platform": "HatenaBlog",
@@ -54,11 +72,18 @@
 		},
 		{
 			"platform": "Heroku",
-			"content": "<title>No such app</title>"
+			"content": [
+				"<title>No such app</title>",
+				"There's nothing here, yet.",
+				"herokucdn.com/error-pages/no-such-app.html"
+			]
 		},
 		{
 			"platform": "Intercom",
-			"content": "Uh oh. That page doesn't exist."
+			"content": [
+				"Uh oh. That page doesn't exist.",
+				"This page is reserved for artistic dogs."
+			]
 		},
 		{
 			"platform": "JetBrains YouTrack",
@@ -78,11 +103,18 @@
 		},
 		{
 			"platform": "Pantheon",
-			"content": "404 error unknown site!"
+			"content": [
+				"404 error unknown site!",
+				"The gods are wise",
+				"The gods are wise, but do not know of the site which you seek."
+			]
 		},
 		{
 			"platform": "Pingdom",
-			"content": "This public report page has not been activated by the user"
+			"content": [
+				"This public report page has not been activated by the user",
+				"pingdom"
+			]
 		},
 		{
 			"platform": "Readme.io",
@@ -90,7 +122,10 @@
 		},
 		{
 			"platform": "Shopify",
-			"content": "<h1 class=\"tc\">Sorry, this shop is currently unavailable.</h1>"
+			"content": [
+				"<h1 class=\"tc\">Sorry, this shop is currently unavailable.</h1>",
+				"Only one step left!"
+			]
 		},
 		{
 			"platform": "SmartJobBoard",
@@ -106,7 +141,10 @@
 		},
 		{
 			"platform": "Tumblr",
-			"content": "Whatever you were looking for doesn't currently exist at this address. Unless you were looking for this error page, in which case: Congrats! You totally found it."
+			"content": [
+				"Whatever you were looking for doesn't currently exist at this address. Unless you were looking for this error page, in which case: Congrats! You totally found it.",
+				"There's nothing here."
+			]
 		},
 		{
 			"platform": "Uberflip",
@@ -114,7 +152,10 @@
 		},
 		{
 			"platform": "Unbounce",
-			"content": "The requested URL was not found on this server."
+			"content": [
+				"The requested URL was not found on this server.",
+				"The requested URL / was not found on this server."
+			]
 		},
 		{
 			"platform": "UserVoice",
@@ -135,6 +176,140 @@
 		{
 			"platform": "UptimeRobot.com",
 			"content": "page not found"
+		},
+		{
+			"platform": "Instapage"
+			"content": "You've Discovered A Missing Link. Our Apologies!"
+		},
+		{
+			"platform": "Desk",
+			"content": [
+				"Please try again or try Desk.com free for 14 days.",
+				"Sorry, We Couldn't Find That Page"
+			]
+		},
+		{
+			"platform": "Tictail",
+			"content": [
+				"Building a brand of your own?",
+				"to target URL: <a href=\"https://tictail.com", "Start selling on Tictail."
+			]
+		},
+		{
+			"platform": "Cargocollective",
+			"content": "If you're moving your domain away from Cargo you must make this configuration through your registrar's DNS control panel."
+		},
+		{
+			"platform": "Statuspage",
+			"content": [
+				"Better Status Communication",
+				"You are being <a href=\"https://www.statuspage.io\">redirected"
+			]
+		},
+		{
+			"platform": "Cloudfront",
+			"content": [
+				"The request could not be satisfied",
+				"ERROR: The request could not be satisfied"
+			]
+		},
+		{
+			"platform": "Smartling",
+			"content": "Domain is not configured"
+		},
+		{
+			"platform": "Acquia",
+			"content": [
+				"If you are an Acquia Cloud customer and expect to see your site at this address",
+				"The site you are looking for could not be found."
+			]
+		},
+		{
+			"platform": "Zendesk",
+			"content": [
+				"<title>Help Center Closed | Zendesk</title>",
+				"Help Center Closed"
+			]
+		},
+		{
+			"platform": "Tilda",
+			"content": "Domain has been assigned"
+		},
+		{
+			"platform": "Teamwork",
+			"content": "Oops - We didn't find your site."
+		},
+		{
+			"platform": "Helpjuice",
+			"content": "We could not find what you're looking for."
+		},
+		{
+			"platform": "Feedpress",
+			"content": "The feed has not been found."
+		},
+		{
+			"platform": "Surge",
+			"content": "project not found"
+		},
+		{
+			"platform": "Surveygizmo",
+			"content": "data-html-name"
+		},
+		{
+			"platform": "Mashery",
+			"content": "Unrecognized domain <strong>"
+		},
+		{
+			"platform": "Kajabi",
+			"content": "<h1>The page you were looking for doesn't exist.</h1>"
+		},
+		{
+			"platform": "Thinkific",
+			"content": "You may have mistyped the address or the page may have moved."
+		},
+		{
+			"platform": "Wishpond",
+			"content": "https://www.wishpond.com/404?campaign=true"
+		},
+		{
+			"platform": "Aftership",
+			"content": "Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
+		},
+		{
+			"platform": "Aha",
+			"content": "There is no portal here ... sending you back to Aha!"
+		},
+		{
+			"platform": "Brightcove",
+			"content": "<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+		},
+		{
+			"platform": "Bigcartel",
+			"content": "<h1>Oops! We couldn&#8217;t find that page.</h1>"
+		},
+		{
+			"platform": "activecompaign",
+			"content": "alt=\"LIGHTTPD - fly light.\""
+		},
+		{
+			"platform": "compaignmonitor",
+			"content": "Double check the URL or <a href=\"mailto:help@createsend.com"
+		},
+		{
+			"platform": "Proposify",
+			"content": "If you need immediate assistance, please contact <a href=\"mailto:support@proposify.biz"
+		},
+		{
+			"platform": "Simplebooklet",
+			"content": "We can't find this <a href=\"https://simplebooklet.com"
+		},
+		{
+			"platform": "Getresponse",
+			"content": "With GetResponse Landing Pages, lead generation has never been easier"
+		},
+		{
+			"platform": "Vend",
+			"content": "Looks like you've traveled too far into cyberspace."
 		}
 	]
 }
