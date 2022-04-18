@@ -125,7 +125,7 @@
 			"platform": "Shopify",
 			"content": [
 				"<h1 class=\"tc\">Sorry, this shop is currently unavailable.</h1>",
-				"Only one step left!"
+				"Only one step left!<br>To finish setting up your new web address, go to"
 			]
 		},
 		{
