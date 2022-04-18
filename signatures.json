@@ -55,7 +55,8 @@
 			"platform": "Ghost",
 			"content": [
 				"The thing you were looking for is no longer here",
-				"The thing you were looking for is no longer here, or never was"
+				"The thing you were looking for is no longer here, or never was",
+				"<h2>Failed to resolve DNS path for this host</h2>"
 			]
 		},
 		{
