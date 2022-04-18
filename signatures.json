@@ -168,7 +168,10 @@
 		},
 		{
 			"platform": "Webflow",
-			"content": "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+			"content": [
+				"<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>",
+				"<p>The URL you've accessed does not provide a hub. Please check the URL and try again.</p>"
+			]
 		},
 		{
 			"platform": "Worksites",
