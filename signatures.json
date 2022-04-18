@@ -9,7 +9,11 @@
 		},
 		{
 			"platform": "WordPress.com",
-			"content": "Do you want to register <em>"
+			"content": [
+				"Do you want to register <em>",
+				"<title>Error: Domain mapping upgrade for this domain not found</title>",
+				"It looks like it doesn't have an active <a href='https://wordpress.com/support/domains/connect-existing-domain/'>domain connection</a> upgrade to link the requested domain name to the WordPress.com site."
+			]
 		},
 		{
 			"platform": "Amazon S3",
@@ -169,10 +173,6 @@
 		{
 			"platform": "Worksites",
 			"content": "<p>Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.</p>"
-		},
-		{
-			"platform": "WordPress.com",
-			"content": "<title>Error: Domain mapping upgrade for this domain not found</title>"
 		},
 		{
 			"platform": "UptimeRobot.com",
